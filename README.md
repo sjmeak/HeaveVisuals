@@ -79,8 +79,4 @@
 
 ---
 
-## 👤 Автор (Author)
-
-* **Разработчик:** [heavefist](https://github.com/sjmeak)
-* **GitHub:** [https://github.com/sjmeak](https://github.com/sjmeak)
 
