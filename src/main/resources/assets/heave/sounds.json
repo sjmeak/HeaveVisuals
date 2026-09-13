@@ -1,0 +1,409 @@
+{
+    "moan1": {
+        "sounds": [
+            "heave:hit_sounds/moan1"
+        ]
+    },
+    "moan2": {
+        "sounds": [
+            "heave:hit_sounds/moan2"
+        ]
+    },
+    "moan3": {
+        "sounds": [
+            "heave:hit_sounds/moan3"
+        ]
+    },
+    "moan4": {
+        "sounds": [
+            "heave:hit_sounds/moan4"
+        ]
+    },
+    "module_disable": {
+        "sounds": [
+            "heave:module_sounds/off"
+        ]
+    },
+    "module_enable": {
+        "sounds": [
+            "heave:module_sounds/on"
+        ]
+    },
+    "off": {
+        "sounds": [
+            "heave:module_sounds/off2"
+        ]
+    },
+    "on": {
+        "sounds": [
+            "heave:module_sounds/on2"
+        ]
+    },
+    "crime": {
+        "sounds": [
+            "heave:hit_sounds/crime"
+        ]
+    },
+    "metallic": {
+        "sounds": [
+            "heave:hit_sounds/metallic"
+        ]
+    },
+    "welcome": {
+        "sounds": [
+            "heave:other/notification/notif"
+        ]
+    },
+    "notification": {
+        "sounds": [
+            "heave:other/notification/notif"
+        ]
+    },
+    "notification_low": {
+        "sounds": [
+            "heave:other/notification/low"
+        ]
+    },
+    "player_ping": {
+        "sounds": [
+            "heave:other/notification/playerping"
+        ]
+    },
+    "module_enable_type2": {
+        "sounds": [
+            "heave:module_sounds/on1"
+        ]
+    },
+    "module_disable_type2": {
+        "sounds": [
+            "heave:module_sounds/off1"
+        ]
+    },
+    "toggle1_on": {
+        "sounds": [
+            "heave:module_sounds/toggle1_on"
+        ]
+    },
+    "toggle1_off": {
+        "sounds": [
+            "heave:module_sounds/toggle1_off"
+        ]
+    },
+    "mine": {
+        "sounds": [
+            "heave:other/auto_mine/mine"
+        ]
+    },
+    "accountswitch": {
+        "sounds": [
+            "heave:clickgui/switchcategory"
+        ]
+    },
+    "searchtyping": {
+        "sounds": [
+            "heave:clickgui/searchtyping"
+        ]
+    },
+    "slider": {
+        "sounds": [
+            "heave:clickgui/slider"
+        ]
+    },
+    "settings_slider": {
+        "sounds": [
+            "heave:settings/slider/slider"
+        ]
+    },
+    "select_category": {
+        "sounds": [
+            "heave:clickgui/select-category"
+        ]
+    },
+    "open_gui": {
+        "sounds": [
+            "heave:clickgui/open-gui"
+        ]
+    },
+    "close_gui": {
+        "sounds": [
+            "heave:clickgui/close-gui"
+        ]
+    },
+    "switchcategory": {
+        "sounds": [
+            "heave:clickgui/switchcategory"
+        ]
+    },
+    "switch_left": {
+        "sounds": [
+            "heave:clickgui/switch-left"
+        ]
+    },
+    "switch_right": {
+        "sounds": [
+            "heave:clickgui/switch-right"
+        ]
+    },
+    "module_settings_open": {
+        "sounds": [
+            "heave:settings/openmodulesettings/module_settings_open"
+        ]
+    },
+    "module_settings_close": {
+        "sounds": [
+            "heave:settings/openmodulesettings/module_settings_close"
+        ]
+    },
+    "settings_open": {
+        "sounds": [
+            "heave:clickgui/settings-open"
+        ]
+    },
+    "settings_close": {
+        "sounds": [
+            "heave:clickgui/settings-close"
+        ]
+    },
+    "gui_category_select": {
+        "sounds": [
+            "heave:clickgui/guicategory_select"
+        ]
+    },
+    "no-settings": {
+        "sounds": [
+            "heave:clickgui/no-settings"
+        ]
+    },
+    "buttonclick": {
+        "sounds": [
+            "heave:clickgui/buttonclick"
+        ]
+    },
+    "unknowncommand": {
+        "sounds": [
+            "heave:chat/command-error"
+        ]
+    },
+    "entity.ribbit.ambient": {
+        "sounds": [
+            "heave:entity/ribbit_ambient1",
+            "heave:entity/ribbit_ambient2",
+            "heave:entity/ribbit_ambient3",
+            "heave:entity/ribbit_ambient4",
+            "heave:entity/ribbit_ambient5"
+        ]
+    },
+    "entity.ribbit.step": {
+        "sounds": [
+            "heave:entity/ribbit_step1",
+            "heave:entity/ribbit_step2"
+        ]
+    },
+    "entity.ribbit.hurt": {
+        "sounds": [
+            "heave:entity/ribbit_hurt1",
+            "heave:entity/ribbit_hurt2",
+            "heave:entity/ribbit_hurt3"
+        ]
+    },
+    "entity.ribbit.death": {
+        "sounds": [
+            "heave:entity/ribbit_death1",
+            "heave:entity/ribbit_death2"
+        ]
+    },
+    "guicategory_select": {
+        "sounds": [
+            "heave:clickgui/guicategory_select"
+        ]
+    },
+    "settings-close": {
+        "sounds": [
+            "heave:clickgui/settings-close"
+        ]
+    },
+    "settings-open": {
+        "sounds": [
+            "heave:clickgui/settings-open"
+        ]
+    },
+    "switch-left": {
+        "sounds": [
+            "heave:clickgui/switch-left"
+        ]
+    },
+    "switch-right": {
+        "sounds": [
+            "heave:clickgui/switch-right"
+        ]
+    },
+    "ribbit_ambient1": {
+        "sounds": [
+            "heave:entity/ribbit_ambient1"
+        ]
+    },
+    "ribbit_ambient2": {
+        "sounds": [
+            "heave:entity/ribbit_ambient2"
+        ]
+    },
+    "ribbit_ambient3": {
+        "sounds": [
+            "heave:entity/ribbit_ambient3"
+        ]
+    },
+    "ribbit_ambient4": {
+        "sounds": [
+            "heave:entity/ribbit_ambient4"
+        ]
+    },
+    "ribbit_ambient5": {
+        "sounds": [
+            "heave:entity/ribbit_ambient5"
+        ]
+    },
+    "ribbit_death1": {
+        "sounds": [
+            "heave:entity/ribbit_death1"
+        ]
+    },
+    "ribbit_death2": {
+        "sounds": [
+            "heave:entity/ribbit_death2"
+        ]
+    },
+    "ribbit_hurt1": {
+        "sounds": [
+            "heave:entity/ribbit_hurt1"
+        ]
+    },
+    "ribbit_hurt2": {
+        "sounds": [
+            "heave:entity/ribbit_hurt2"
+        ]
+    },
+    "ribbit_hurt3": {
+        "sounds": [
+            "heave:entity/ribbit_hurt3"
+        ]
+    },
+    "ribbit_step1": {
+        "sounds": [
+            "heave:entity/ribbit_step1"
+        ]
+    },
+    "ribbit_step2": {
+        "sounds": [
+            "heave:entity/ribbit_step2"
+        ]
+    },
+    "off1": {
+        "sounds": [
+            "heave:module_sounds/off1"
+        ]
+    },
+    "off2": {
+        "sounds": [
+            "heave:module_sounds/off2"
+        ]
+    },
+    "on1": {
+        "sounds": [
+            "heave:module_sounds/on1"
+        ]
+    },
+    "on2": {
+        "sounds": [
+            "heave:module_sounds/on2"
+        ]
+    },
+    "low": {
+        "sounds": [
+            "heave:other/notification/low"
+        ]
+    },
+    "notif": {
+        "sounds": [
+            "heave:other/notification/notif"
+        ]
+    },
+    "playerping": {
+        "sounds": [
+            "heave:other/notification/playerping"
+        ]
+    },
+    "frag_effect_echo_main": {
+        "sounds": [
+            "heave:charmsfxpack/echocharmmain"
+        ]
+    },
+    "frag_effect_knock_main": {
+        "sounds": [
+            "heave:charmsfxpack/knockcharmmain"
+        ]
+    },
+    "frag_effect_pulse": {
+        "sounds": [
+            "heave:charmsfxpack/pulsecharmdistant0",
+            "heave:charmsfxpack/pulsecharmdistant1",
+            "heave:charmsfxpack/pulsecharmdistant2",
+            "heave:charmsfxpack/pulsecharmdistant3",
+            "heave:charmsfxpack/pulsecharmdistant4"
+        ]
+    },
+    "frag_effect_sparks_collision": {
+        "sounds": [
+            "heave:charmsfxpack/sparkscollisionneared"
+        ]
+    },
+    "command_error": {
+        "sounds": [
+            "heave:chat/command-error"
+        ]
+    },
+    "entity.nightmare_bb.hi": {
+        "sounds": [
+            "heave:entity/nightmare_bb/hi"
+        ]
+    },
+    "entity.nightmare_bb.hello": {
+        "sounds": [
+            "heave:entity/nightmare_bb/hello"
+        ]
+    },
+    "entity.nightmare_bb.laugh": {
+        "sounds": [
+            "heave:entity/nightmare_bb/laugh"
+        ]
+    },
+    "hit_bell": {
+        "sounds": [
+            "heave:hitsound/bell"
+        ]
+    },
+    "hit_bonk": {
+        "sounds": [
+            "heave:hitsound/bonk"
+        ]
+    },
+    "hit_bubble": {
+        "sounds": [
+            "heave:hitsound/bubble"
+        ]
+    },
+    "hit_pop": {
+        "sounds": [
+            "heave:hitsound/pop"
+        ]
+    },
+    "hit_uwu": {
+        "sounds": [
+            "heave:hitsound/uwu"
+        ]
+    },
+    "hit_vk": {
+        "sounds": [
+            "heave:hitsound/vk"
+        ]
+    }
+}

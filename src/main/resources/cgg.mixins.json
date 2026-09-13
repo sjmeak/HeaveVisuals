@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "ru.customgamegui.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "InGameHudMixin",
+    "BossBarHudMixin",
+    "SubtitlesHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixinextras": {
+    "minVersion": "0.4.0"
+  }
+}

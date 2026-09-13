@@ -1,0 +1,49 @@
+# Gradle & Build
+.gradle/
+build/
+bin/
+out/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project/
+.classpath/
+
+# Minecraft client runtime directory & sensitive data
+# CRITICAL: contains accounts, tokens, session data, server IPs, logs and chat history
+run/
+logs/
+*.log
+usercache.json
+options.txt
+servers.dat*
+command_history.txt
+debug-profile.json
+_IAS_ACCOUNTS_DO_NOT_SEND_TO_ANYONE/
+replay_recordings/
+crash-reports/
+
+# Temporary, scratch & compiled classes
+temp*/
+scratch*/
+*.class
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Jars (binaries)
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+!libs/*.jar
